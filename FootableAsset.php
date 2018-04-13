@@ -6,7 +6,7 @@ use \Yii;
 
 class FootableAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@vendor/bower/footable';
+    public $sourcePath = '@bower/footable';
 
     public $js = [
         'js/footable.js'
